@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tofeha
 - 👀 I’m interested in crypto, AI and bots
 - 🌱 I’m currently learning crypto, AI and bots
-- 💞️ I’m looking to collaborate on crypto, AI and bots (yep)
+- 💞️ I’m looking to collaborate on crypto, AI and bots
 - 📫 How to reach me (soon)
 
 <!---
